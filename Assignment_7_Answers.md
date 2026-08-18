@@ -1,13 +1,7 @@
 # Muhammad Haad
 ### Course: AI Seekho
 
-# Muhammad Haad
-### Course: AI Seekho
-
 # Assignment 7 — Databases, Migrations & Backend Security
-
-**Name:** Muhammad Haad
-**Course:** AI Seekho
 
 ---
 
