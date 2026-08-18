@@ -4,7 +4,8 @@
 # Assignment 7 — Capstone Report
 ## Project: EventFeast (Event Catering & Decor Estimator)
 
-**Repo:** [add your GitHub repo link(s) here — backend & frontend]
+**Backend Repo:** https://github.com/haaddev16/eventfeast-backend
+**Frontend Repo:** https://github.com/haaddev16/eventfeast-frontend
 **Live app:** https://eventfeast-frontend.vercel.app
 
 ---
